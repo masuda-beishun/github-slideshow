@@ -1,0 +1,6 @@
+ "name": "whoisで検索",
+    "version": "1.0",
+    "description": "政令省令検索。",
+    "permissions": ["contextMenus", "tabs", "http://*/*", "https://*/*"],
+    "background": {
+        "scripts": ["background.js"]
