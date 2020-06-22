@@ -1,0 +1,6 @@
+"name": "省令等検索",
+"version": "1.0",
+"description": "e-govで政令・省令検索",
+"permissions": ["contextMenus", "tabs", "http://*/*", "https://*/*"],
+"background": {
+"scripts": ["background.js"]
